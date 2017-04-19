@@ -3,9 +3,9 @@ body {
   padding: 0;
 }
 .contenedor {
-  margin: 0;
-  top: 100px;
-  left: 100px;
+
+  margin-top: 150px;
+  margin-left: 500px;
   background-color: #EE3E64;
   position: absolute;
   width: 300px;
@@ -30,11 +30,11 @@ body {
 }
 
 .contenedorDos {
-  margin: 0;
-  top: 450px;
-  left: 100px;
+
+  margin-top: 500px;
+  margin-left: 500px;
   background-color: #2B7DB9;
-  position: relative;
+  position: absolute;
   width: 300px;
   height: 300px;
 }
@@ -43,7 +43,7 @@ body {
   width: 70px;
   height: 70px;
   background-color: #150505;
-  position: absolute;
+  position: relative;
 
 }
 
@@ -51,7 +51,7 @@ body {
   width: 150px;
   height: 150px;
   background-color: #B7D84B;
-  position: relative;
+  position: absolute;
   top: 70px;
   left: 70px;
 
