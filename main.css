@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.contenedor {
+  margin: 0;
+  top: 100px;
+  left: 100px;
+  background-color: #EE3E64;
+  position: absolute;
+  width: 300px;
+  height: 300px;
+}
+
+.caja#azul{
+  width: 170px;
+  height: 170px;
+  background-color: #2B7DB9;
+  position: relative;
+  top: 70px;
+  left: 70px;
+}
+
+.caja#amarillo{
+  width: 70px;
+  height: 70px;
+  background-color: #FAFF16;
+  position: relative;
+
+}
+
+.contenedorDos {
+  margin: 0;
+  top: 450px;
+  left: 100px;
+  background-color: #2B7DB9;
+  position: relative;
+  width: 300px;
+  height: 300px;
+}
+
+.cuadro#negro{
+  width: 70px;
+  height: 70px;
+  background-color: #150505;
+  position: absolute;
+
+}
+
+.cuadro#verde{
+  width: 150px;
+  height: 150px;
+  background-color: #B7D84B;
+  position: relative;
+  top: 70px;
+  left: 70px;
+
+}
